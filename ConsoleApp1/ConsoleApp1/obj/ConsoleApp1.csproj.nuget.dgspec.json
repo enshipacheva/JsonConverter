@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Лаборатория\\JsonConverter\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Kate\\Desktop\\JsonConverter\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Лаборатория\\JsonConverter\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Kate\\Desktop\\JsonConverter\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Лаборатория\\JsonConverter\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Kate\\Desktop\\JsonConverter\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Лаборатория\\JsonConverter\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Kate\\Desktop\\JsonConverter\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Kate\\.nuget\\packages\\",
-        "outputPath": "D:\\Лаборатория\\JsonConverter\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Kate\\Desktop\\JsonConverter\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kate\\AppData\\Roaming\\NuGet\\NuGet.Config",
