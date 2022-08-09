@@ -1,0 +1,17 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\List
+  Count=1
+[DETAIL]
+  File=C:\GEODET\GEOM1
+  Count=2
+[MATERIAL]
+  Mark=12Õ18Í10Ò
+  UdVes=7950
+  Thickness=28
+[DISTANCE]
+  DetToDet=5
+  DetToSheet=5
+[NC]
+  Name=

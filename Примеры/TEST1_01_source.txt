@@ -1,0 +1,254 @@
+FormatVersion:2
+Polygon;PenColor:0_128_0;PenWidth:2;Coordinates:265.483_520.727_-180.000/263.246_8.002_-180.000/265.483_520.727_-180.000;BrushColor:181_230_29;TextColor:0_0_0;Text:"Контур0"
+Polygon;PenColor:0_128_0;PenWidth:2;Coordinates:265.483_1039.560_-180.000/263.246_526.836_-180.000/265.483_1039.560_-180.000;BrushColor:181_230_29;TextColor:0_0_0;Text:"Контур1"
+Point;X:0.000000;Y:0.000000;Size:7;PenColor:0_0_0;BrushColor:255_255_0;TextColor:0_0_0;Type:Triangle;Text:"Старт"
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:379.062_512.800_0/362.882_501.044_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:379.062_512.800_0/362.882_501.044_0/348.019_514.427_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:424.702_486.544_0/406.882_477.464_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:424.702_486.544_0/406.882_477.464_0/394.296_493.007_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:464.798_450.980_0/445.479_445.804_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:464.798_450.980_0/445.479_445.804_0/437.345_464.075_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:497.209_407.264_0/477.209_407.264_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:497.209_407.264_0/477.209_407.264_0/472.032_426.583_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:520.621_360.177_0/500.867_363.306_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:520.621_360.177_0/500.867_363.306_0/499.820_383.278_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:534.230_308.428_0/515.558_315.595_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:534.230_308.428_0/515.558_315.595_0/517.649_335.486_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:537.498_255.050_0/520.724_265.943_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:537.498_255.050_0/520.724_265.943_0/525.901_285.261_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:530.312_202.088_0/516.170_216.230_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:530.312_202.088_0/516.170_216.230_0/526.170_233.551_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:513.823_152.162_0/502.067_168.343_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:513.823_152.162_0/502.067_168.343_0/515.450_183.206_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:487.086_105.825_0/478.952_124.096_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:487.086_105.825_0/478.952_124.096_0/494.495_136.683_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:451.857_65.605_0/447.699_85.168_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:451.857_65.605_0/447.699_85.168_0/465.970_93.303_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:410.542_33.063_0/409.495_53.035_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:410.542_33.063_0/409.495_53.035_0/428.813_58.212_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:362.659_9.162_0/365.788_28.916_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:362.659_9.162_0/365.788_28.916_0/385.760_29.962_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:154.075_14.772_0/170.848_25.665_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:154.075_14.772_0/170.848_25.665_0/186.391_13.079_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:108.541_39.234_0/126.361_48.314_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:108.541_39.234_0/126.361_48.314_0/138.947_32.771_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:67.788_73.979_0/87.107_79.155_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:67.788_73.979_0/87.107_79.155_0/96.186_61.335_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:34.683_114.929_0/54.574_117.020_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:34.683_114.929_0/54.574_117.020_0/59.750_97.701_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:10.105_162.561_0/29.996_160.471_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:10.105_162.561_0/29.996_160.471_0/31.042_140.498_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:12.108_370.908_0/24.695_355.365_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:12.108_370.908_0/24.695_355.365_0/11.312_340.502_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:37.795_417.908_0/46.875_400.088_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:37.795_417.908_0/46.875_400.088_0/31.332_387.502_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:72.125_458.983_0/77.301_439.665_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:72.125_458.983_0/77.301_439.665_0/59.481_430.585_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:113.774_492.567_0/114.821_472.594_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:113.774_492.567_0/114.821_472.594_0/95.800_466.414_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:161.140_517.382_0/158.011_497.628_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:161.140_517.382_0/158.011_497.628_0/138.121_495.537_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:278.070_1055.103_0/265.483_1039.560_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:278.070_1055.103_0/265.483_1039.560_0/246.462_1045.740_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:329.287_1048.625_0/315.145_1034.483_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:329.287_1048.625_0/315.145_1034.483_0/297.325_1043.563_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:379.655_1030.770_0/362.882_1019.877_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:379.655_1030.770_0/362.882_1019.877_0/348.019_1033.260_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:425.153_1004.432_0/406.882_996.298_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:425.153_1004.432_0/406.882_996.298_0/394.296_1011.841_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:464.798_969.814_0/445.479_964.637_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:464.798_969.814_0/445.479_964.637_0/437.344_982.908_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:497.099_928.188_0/477.209_926.097_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:497.099_928.188_0/477.209_926.097_0/472.032_945.416_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:520.621_879.010_0/500.867_882.139_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:520.621_879.010_0/500.867_882.139_0/499.821_902.111_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:533.829_826.294_0/515.558_834.429_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:533.829_826.294_0/515.558_834.429_0/518.687_854.182_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:537.498_773.883_0/520.724_784.776_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:537.498_773.883_0/520.724_784.776_0/525.901_804.094_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:530.312_720.921_0/516.170_735.063_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:530.312_720.921_0/516.170_735.063_0/526.170_752.384_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:513.823_670.996_0/502.067_687.176_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:513.823_670.996_0/502.067_687.176_0/515.450_702.039_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:487.086_624.659_0/478.952_642.929_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:487.086_624.659_0/478.952_642.929_0/495.132_654.685_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:452.876_584.683_0/447.699_604.002_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:452.876_584.683_0/447.699_604.002_0/465.519_613.082_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:410.542_551.896_0/409.495_571.869_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:410.542_551.896_0/409.495_571.869_0/428.813_577.045_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:362.659_527.995_0/365.788_547.749_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:362.659_527.995_0/365.788_547.749_0/385.760_548.796_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:154.668_532.743_0/170.848_544.498_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:154.668_532.743_0/170.848_544.498_0/186.391_531.912_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:108.090_559.013_0/126.361_567.147_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:108.090_559.013_0/126.361_567.147_0/138.947_551.604_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:67.788_592.812_0/87.107_597.989_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:67.788_592.812_0/87.107_597.989_0/96.186_580.169_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:34.601_634.806_0/54.574_635.853_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:34.601_634.806_0/54.574_635.853_0/59.750_616.534_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:10.242_682.433_0/29.996_679.304_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:10.242_682.433_0/29.996_679.304_0/31.042_659.331_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:12.939_890.379_0/24.695_874.198_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:12.939_890.379_0/24.695_874.198_0/12.108_858.656_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:37.795_936.741_0/46.874_918.921_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:37.795_936.741_0/46.874_918.921_0/31.332_906.335_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:72.125_977.816_0/77.301_958.498_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:72.125_977.816_0/77.301_958.498_0/59.481_949.418_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:112.730_1011.318_0/114.821_991.427_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:112.730_1011.318_0/114.821_991.427_0/95.800_985.247_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:160.102_1036.352_0/158.011_1016.461_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:160.102_1036.352_0/158.011_1016.461_0/138.039_1015.414_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:212.401_1051.322_0/205.234_1032.650_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:212.401_1051.322_0/205.234_1032.650_0/185.344_1034.741_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:266.455_1055.561_0/254.699_1039.380_0;BrushColor:181_230_29;
+Line;PenColor:192_192_192;PenWidth:2;Coordinates:266.455_1055.561_0/254.699_1039.380_0/235.381_1044.557_0;BrushColor:181_230_29;
+Point;X:379.061829;Y:512.799805;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 0"
+Point;X:362.881500;Y:501.044128;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 0 начала реза контура"
+Point;X:348.018616;Y:514.426758;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 0 завершения реза контура"
+Point;X:424.702484;Y:486.544098;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 1"
+Point;X:406.882355;Y:477.464294;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 1 начала реза контура"
+Point;X:394.295959;Y:493.007202;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 1 завершения реза контура"
+Point;X:464.797760;Y:450.980438;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 2"
+Point;X:445.479248;Y:445.804047;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 2 начала реза контура"
+Point;X:437.344513;Y:464.074951;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 2 завершения реза контура"
+Point;X:497.208557;Y:407.264038;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 3"
+Point;X:477.208557;Y:407.264038;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 3 начала реза контура"
+Point;X:472.032166;Y:426.582550;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 3 завершения реза контура"
+Point;X:520.620972;Y:360.176819;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 4"
+Point;X:500.867218;Y:363.305511;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 4 начала реза контура"
+Point;X:499.820496;Y:383.278107;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 4 завершения реза контура"
+Point;X:534.229797;Y:308.427979;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 5"
+Point;X:515.558167;Y:315.595337;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 5 начала реза контура"
+Point;X:517.648743;Y:335.485779;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 5 завершения реза контура"
+Point;X:537.497803;Y:255.049759;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 6"
+Point;X:520.724365;Y:265.942535;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 6 начала реза контура"
+Point;X:525.900757;Y:285.261047;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 6 завершения реза контура"
+Point;X:530.311951;Y:202.087860;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 7"
+Point;X:516.169800;Y:216.229996;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 7 начала реза контура"
+Point;X:526.169800;Y:233.550507;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 7 завершения реза контура"
+Point;X:513.823059;Y:152.162292;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 8"
+Point;X:502.067322;Y:168.342636;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 8 начала реза контура"
+Point;X:515.449951;Y:183.205536;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 8 завершения реза контура"
+Point;X:487.086334;Y:105.825241;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 9"
+Point;X:478.951599;Y:124.096146;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 9 начала реза контура"
+Point;X:494.494507;Y:136.682556;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 9 завершения реза контура"
+Point;X:451.857300;Y:65.605431;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 10"
+Point;X:447.699066;Y:85.168381;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 10 начала реза контура"
+Point;X:465.969971;Y:93.303108;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 10 завершения реза контура"
+Point;X:410.541656;Y:33.062889;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 11"
+Point;X:409.494934;Y:53.035477;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 11 начала реза контура"
+Point;X:428.813446;Y:58.211853;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 11 завершения реза контура"
+Point;X:362.659027;Y:9.161987;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 12"
+Point;X:365.787720;Y:28.915756;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 12 начала реза контура"
+Point;X:385.760315;Y:29.962475;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 12 завершения реза контура"
+Point;X:154.074631;Y:14.772289;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 13"
+Point;X:170.848038;Y:25.665070;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 13 начала реза контура"
+Point;X:186.390961;Y:13.078662;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 13 завершения реза контура"
+Point;X:108.540741;Y:39.234367;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 14"
+Point;X:126.360870;Y:48.314178;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 14 начала реза контура"
+Point;X:138.947281;Y:32.771259;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 14 завершения реза контура"
+Point;X:67.788116;Y:73.979057;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 15"
+Point;X:87.106628;Y:79.155441;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 15 начала реза контура"
+Point;X:96.186440;Y:61.335312;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 15 завершения реза контура"
+Point;X:34.683155;Y:114.929024;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 16"
+Point;X:54.573593;Y:117.019592;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 16 начала реза контура"
+Point;X:59.749973;Y:97.701080;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 16 завершения реза контура"
+Point;X:10.105106;Y:162.561188;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 17"
+Point;X:29.995544;Y:160.470612;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 17 начала реза контура"
+Point;X:31.042263;Y:140.498016;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 17 завершения реза контура"
+Point;X:12.108265;Y:370.908203;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 18"
+Point;X:24.694672;Y:355.365295;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 18 начала реза контура"
+Point;X:11.312057;Y:340.502411;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 18 завершения реза контура"
+Point;X:37.794781;Y:417.908295;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 19"
+Point;X:46.874588;Y:400.088165;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 19 начала реза контура"
+Point;X:31.331667;Y:387.501770;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 19 завершения реза контура"
+Point;X:72.124931;Y:458.983185;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 20"
+Point;X:77.301315;Y:439.664673;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 20 начала реза контура"
+Point;X:59.481186;Y:430.584869;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 20 завершения реза контура"
+Point;X:113.774399;Y:492.566711;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 21"
+Point;X:114.821121;Y:472.594116;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 21 начала реза контура"
+Point;X:95.799988;Y:466.413788;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 21 завершения реза контура"
+Point;X:161.140030;Y:517.381653;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 0, точка врезки 22"
+Point;X:158.011337;Y:497.627869;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 0, точка 22 начала реза контура"
+Point;X:138.120895;Y:495.537292;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 0, точка 22 завершения реза контура"
+Point;X:278.069550;Y:1055.103027;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 0"
+Point;X:265.483154;Y:1039.560059;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 0 начала реза контура"
+Point;X:246.462021;Y:1045.740356;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 0 завершения реза контура"
+Point;X:329.287231;Y:1048.625000;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 1"
+Point;X:315.145081;Y:1034.482910;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 1 начала реза контура"
+Point;X:297.324951;Y:1043.562744;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 1 завершения реза контура"
+Point;X:379.654938;Y:1030.770264;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 2"
+Point;X:362.881531;Y:1019.877441;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 2 начала реза контура"
+Point;X:348.018646;Y:1033.260010;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 2 завершения реза контура"
+Point;X:425.153290;Y:1004.432312;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 3"
+Point;X:406.882385;Y:996.297607;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 3 начала реза контура"
+Point;X:394.295990;Y:1011.840515;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 3 завершения реза контура"
+Point;X:464.797729;Y:969.813843;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 4"
+Point;X:445.479218;Y:964.637451;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 4 начала реза контура"
+Point;X:437.344482;Y:982.908386;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 4 завершения реза контура"
+Point;X:497.098999;Y:928.187927;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 5"
+Point;X:477.208557;Y:926.097351;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 5 начала реза контура"
+Point;X:472.032166;Y:945.415894;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 5 завершения реза контура"
+Point;X:520.621033;Y:879.010193;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 6"
+Point;X:500.867249;Y:882.138855;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 6 начала реза контура"
+Point;X:499.820526;Y:902.111450;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 6 завершения реза контура"
+Point;X:533.829163;Y:826.293945;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 7"
+Point;X:515.558228;Y:834.428650;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 7 начала реза контура"
+Point;X:518.686890;Y:854.182434;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 7 завершения реза контура"
+Point;X:537.497803;Y:773.883179;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 8"
+Point;X:520.724365;Y:784.775940;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 8 начала реза контура"
+Point;X:525.900757;Y:804.094482;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 8 завершения реза контура"
+Point;X:530.312012;Y:720.921143;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 9"
+Point;X:516.169861;Y:735.063293;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 9 начала реза контура"
+Point;X:526.169861;Y:752.383789;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 9 завершения реза контура"
+Point;X:513.823120;Y:670.995605;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 10"
+Point;X:502.067383;Y:687.175964;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 10 начала реза контура"
+Point;X:515.450012;Y:702.038879;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 10 завершения реза контура"
+Point;X:487.086334;Y:624.658508;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 11"
+Point;X:478.951599;Y:642.929443;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 11 начала реза контура"
+Point;X:495.131927;Y:654.685120;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 11 завершения реза контура"
+Point;X:452.875641;Y:584.683289;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 12"
+Point;X:447.699249;Y:604.001831;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 12 начала реза контура"
+Point;X:465.519379;Y:613.081604;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 12 завершения реза контура"
+Point;X:410.541656;Y:551.896179;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 13"
+Point;X:409.494934;Y:571.868774;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 13 начала реза контура"
+Point;X:428.813446;Y:577.045166;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 13 завершения реза контура"
+Point;X:362.659058;Y:527.995239;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 14"
+Point;X:365.787750;Y:547.749023;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 14 начала реза контура"
+Point;X:385.760345;Y:548.795715;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 14 завершения реза контура"
+Point;X:154.667694;Y:532.742615;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 15"
+Point;X:170.848022;Y:544.498352;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 15 начала реза контура"
+Point;X:186.390945;Y:531.911926;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 15 завершения реза контура"
+Point;X:108.090057;Y:559.012695;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 16"
+Point;X:126.360962;Y:567.147400;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 16 начала реза контура"
+Point;X:138.947372;Y:551.604492;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 16 завершения реза контура"
+Point;X:67.788101;Y:592.812378;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 17"
+Point;X:87.106613;Y:597.988770;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 17 начала реза контура"
+Point;X:96.186424;Y:580.168640;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 17 завершения реза контура"
+Point;X:34.601097;Y:634.806030;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 18"
+Point;X:54.573685;Y:635.852722;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 18 начала реза контура"
+Point;X:59.750065;Y:616.534180;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 18 завершения реза контура"
+Point;X:10.241747;Y:682.432617;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 19"
+Point;X:29.995514;Y:679.303955;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 19 начала реза контура"
+Point;X:31.042233;Y:659.331360;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 19 завершения реза контура"
+Point;X:12.938891;Y:890.378845;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 20"
+Point;X:24.694595;Y:874.198486;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 20 начала реза контура"
+Point;X:12.108189;Y:858.655579;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 20 завершения реза контура"
+Point;X:37.794643;Y:936.741455;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 21"
+Point;X:46.874451;Y:918.921326;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 21 начала реза контура"
+Point;X:31.331530;Y:906.334900;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 21 завершения реза контура"
+Point;X:72.124809;Y:977.816467;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 22"
+Point;X:77.301193;Y:958.497925;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 22 начала реза контура"
+Point;X:59.481064;Y:949.418091;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 22 завершения реза контура"
+Point;X:112.730377;Y:1011.317810;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 23"
+Point;X:114.820953;Y:991.427368;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 23 начала реза контура"
+Point;X:95.799820;Y:985.247009;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 23 завершения реза контура"
+Point;X:160.101791;Y:1036.351563;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 24"
+Point;X:158.011230;Y:1016.461182;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 24 начала реза контура"
+Point;X:138.038635;Y:1015.414490;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 24 завершения реза контура"
+Point;X:212.401474;Y:1051.321655;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 25"
+Point;X:205.234116;Y:1032.650024;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 25 начала реза контура"
+Point;X:185.343674;Y:1034.740601;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 25 завершения реза контура"
+Point;X:266.454926;Y:1055.560547;Size:6;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Box;Text:"Множество 1, точка врезки 26"
+Point;X:254.699219;Y:1039.380249;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:Cross;Text:"Множество 1, точка 26 начала реза контура"
+Point;X:235.380707;Y:1044.556641;Size:7;PenColor:0_0_0;BrushColor:128_255_128;TextColor:0_0_0;Type:TurnedCross;Text:"Множество 1, точка 26 завершения реза контура"
