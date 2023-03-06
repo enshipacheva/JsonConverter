@@ -3,78 +3,88 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Newtonsoft.Json;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 namespace JsonObjects
 {
     internal class RoutingResult
     {
+        [JsonPropertyName("job")]
         public JobInfo Job { get; set; }
 
+        [JsonPropertyName("results")]
         public ResultInfo Results { get; set; }
     }
 
     public class JobInfo
     {
-        [JsonProperty("paths.count")]
+        [JsonPropertyName("paths.count")]
         public int PathsCount { get; set; }
 
-        [JsonProperty("parts.count")]
+        [JsonPropertyName("parts.count")]
         public int PartsCount { get; set; }
 
-        [JsonProperty("total.points.count")]
+        [JsonPropertyName("total.points.count")]
         public int TotalPointsСount { get; set; }
 
-        [JsonProperty("total.address.pairs.count")]
+        [JsonPropertyName("total.address.pairs.count")]
         public int TotalAddressPairsCount { get; set; }
 
-        [JsonProperty("list")]
-        public List<Coord[]> List { get; set; } = new();
+        [JsonPropertyName("list")]
+        public List<double[]> List { get; set; } = new();
         public List<Path> Paths { get; set; } = new();
     }
 
      public class Path
     {
-        [JsonProperty("part.id")]
+        [JsonPropertyName("part.id")]
         public int PartId { get; set; }
-        [JsonProperty("id")]
+        [JsonPropertyName("id")]
         public int Id { get; set; }
-        [JsonProperty("partid")]
+        [JsonPropertyName("partid")]
         public string PartName { get; set; }
-        //Попробую без JsonProperty
-        public List<Coord[]> Points { get; set; } = new ();
+        //Попробую без JsonPropertyName
+        public List<double[]> Points { get; set; } = new ();
     }
 
     public class ResultInfo
     {
-        [JsonProperty("partid")]
+        [JsonPropertyName("result")]
         public decimal Result { get; set; }
 
-        [JsonProperty("route.length.no.contours")]
+        [JsonPropertyName("route.length.no.contours")]
         public decimal RouteLengthNoContours { get; set; }
 
-        [JsonProperty ("route.length")]
+        [JsonPropertyName ("route.length")]
         public decimal RouteLength { get; set; }
 
-        [JsonProperty ("count.time")]
+        [JsonPropertyName ("count.time")]
         public string CountTime { get; set; }
+
+        [JsonPropertyName("toolpath")]
         public List<RouteComponent> Toolpath { get; set; }
     }
 
     public class RouteComponent
     {
-        [JsonProperty("point.id")]
+        [JsonPropertyName("point.id")]
         public int PointId { get; set; }
+
+        [JsonPropertyName("mode")]
         public string Mode { get; set; }
 
-        [JsonProperty("part.id")]
+        [JsonPropertyName("part.id")]
         public int? Part_Id { get; set; }
 
+        [JsonPropertyName("id")]
         public int? Id { get; set; }
 
+        [JsonPropertyName("partid")]
         public string? PartId { get; set; }
 
-        public Coord[] Point {get;set;}
+        [JsonPropertyName("point")]
+        public double[] Point {get;set;}
     }
 
 
